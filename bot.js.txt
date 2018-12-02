@@ -40,4 +40,4 @@ if (message.content.startsWith(prefix + 'setava')) {
   }
 });
 
-client.login("NTEzMDg0Mzc4MjIyNjkwMzA0.DtrEfA.3zJ3pkgvib0Zzt8XQ7BLdg5GgOY");
+client.login("NDYyNjMyOTk1NDI2MjcxMjMz.DsD3zA.E6nyBE7s_tY5UgxXi8y9x-ri1yE");
